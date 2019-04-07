@@ -1,0 +1,35 @@
+#canvas.container {
+    width: auto;
+    margin: 5px;
+    border: 2px solid black;
+
+}
+
+#ex1.modal a.close-modal {
+    top: -4px;
+    right: -4px;
+}
+
+#ex1.modal {
+    top: 15%;
+    right: unset;
+    bottom: unset;
+    left: 1%;
+    width: auto;
+    text-align: center;
+}
+#start.btn {
+    position: fixed;
+    top: 20%;
+    left: 7%;
+}
+.blocker {
+    background-color: rgba(0, 0, 0, 0.92)!important;
+}
+
+#startofgame {
+    display: block;
+    position: fixed;
+    margin: 3%;
+    text-align: center;
+}
